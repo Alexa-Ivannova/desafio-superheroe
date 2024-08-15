@@ -13,7 +13,7 @@ El proyecto consiste en desarrollar una página de práctica que utiliza `z-inde
 El proyecto está organizado de la siguiente manera:
 
 superhero-challenge/
-│
+
 
 ├── index.html
 
