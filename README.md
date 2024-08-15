@@ -14,11 +14,14 @@ El proyecto está organizado de la siguiente manera:
 
 superhero-challenge/
 │
-├── index.html
-├── styles.css
-└── images/
-│ └── (imágenes utilizadas en el proyecto)
 
+├── index.html
+
+├── styles.css
+
+└── images/
+
+ └── (imágenes utilizadas en el proyecto)
 
 - `index.html`: Contiene la estructura HTML de la página.
 - `styles.css`: Contiene los estilos CSS de la página.
