@@ -20,8 +20,8 @@ superhero-challenge/
 ├── styles.css
 
 └── images/
-
- └── (imágenes utilizadas en el proyecto)
+  
+   └── (imágenes utilizadas en el proyecto)
 
 - `index.html`: Contiene la estructura HTML de la página.
 - `styles.css`: Contiene los estilos CSS de la página.
